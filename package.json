@@ -1,6 +1,9 @@
 {
   "name": "corenlp-sentiment",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "dependencies": {
+    "corenlp": "^1.4.2"
+  },
   "description": "Extension of npm package corenlp. Modified to include sentiment.",
   "main": "index.js",
   "scripts": {
